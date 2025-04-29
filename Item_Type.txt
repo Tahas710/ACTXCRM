@@ -1,0 +1,25 @@
+Item Type
+Global Defaults
+Supplier
+Country State
+Payment Terms
+Cost Center
+Transaction Type
+Tax
+Customer
+Territory
+Payment Mode
+Company
+Department
+Unit Of Measure
+Designation
+Customer Type
+Warehouse
+Unit Conversion
+City
+Sales Person
+Item
+Supplier Type
+Chart Of Account
+Fiscal Year
+User Wise Signature
